@@ -1,0 +1,21 @@
+p,h5{
+    color: #808588;
+}
+h2,h5{
+    text-align: center;
+}
+.div-Content{
+    width: 100%;
+}
+p{
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+.parrafos{
+    width: 30%;
+}
+label{
+    float: left;
+    width: 100%;
+}

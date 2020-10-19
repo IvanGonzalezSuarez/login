@@ -1,0 +1,25 @@
+.gf-header {
+    text-align: center;
+  }
+  
+.gf-header a {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+ }
+  
+.gf-header a:hover {
+    text-decoration: underline;
+}
+  
+.gf-header a + a {
+    margin: 0 12px;
+}
+.btn-1{
+  background-color: #2d6edf;
+  color: white;
+  border-radius: 4px;
+  width: 50%;
+    height: 30px;
+    border: 1px;
+}
